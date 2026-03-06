@@ -1,0 +1,21 @@
+# Frontend
+ar-menu/node_modules/
+ar-menu/dist/
+ar-menu/.env
+
+# Backend
+Backend/target/
+Backend/*.class
+Backend/*.jar
+Backend/*.war
+Backend/.env
+Backend/application-prod.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
